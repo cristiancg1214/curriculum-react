@@ -1,5 +1,13 @@
 {
+  "header": {
     "name": "Cristian Camilo Gutiérrez Vargas",
-    "aboutMe":"Ingeniero de Sistemas y Telecomunicaciones con 2 años de experiencia en desarrollo de software, diseño e infraestructura de sistemas",
-    "location":"Pácora-Caldas Colombia"
+    "aboutMe": "Ingeniero de Sistemas y Telecomunicaciones con 2 años de experiencia en desarrollo de software, diseño e infraestructura de sistemas",
+    "location": "Pácora-Caldas Colombia",
+    "knowledge": [
+      { "name": "React js", "icon": "FaReact" },
+      { "name": "React Native", "icon": "FaReact" },
+      { "name": "JavaScript", "icon": "FaJs" },
+      { "name": "Html", "icon": "FaHtml5" }
+    ]
+  }
 }
